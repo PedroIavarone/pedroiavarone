@@ -1,7 +1,7 @@
 # Hi, I'm Pedro 👋
 
 <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/graduated.png?raw=true" width="22" height="22" valign="middle">&nbsp; AI student at FIAP  
-<img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/microchip.png?raw=true" width="22" height="22" valign="middle">&nbsp; Focused on Machine Learning, Automation & Data  
+<img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/robot%20(1).png?raw=true" width="22" height="22" valign="middle">&nbsp; Focused on Machine Learning, Automation & Data  
 
 ---
 
@@ -30,6 +30,6 @@
 
 ---
 
-##  <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/robot%20(1).png?raw=true" width="22" height="22" valign="middle">&nbsp; Projects
-- <img src="https://github.com/PedroIavaroneCustodio/PedroIavaroneCustodio/blob/main/files/Icons/Animated/skills.gif?raw=true" width="22" height="22" valign="middle">&nbsp;[Projeto 1](linkdoprojeto1) — breve descrição do que resolve  
+##  <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/pasta.png?raw=true" width="22" height="22" valign="middle">&nbsp; Projects
+- <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/robot%20(1).png?raw=true" width="22" height="22" valign="middle">&nbsp;[Projeto 1](linkdoprojeto1) — breve descrição do que resolve  
 - <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/startup.png?raw=true" width="22" height="22" valign="middle">&nbsp;[Projeto 2](linkdoprojeto2) — breve descrição do impacto
