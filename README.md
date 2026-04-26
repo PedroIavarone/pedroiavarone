@@ -34,4 +34,5 @@
 - <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/robot%20(1).png?raw=true" width="22" height="22" valign="middle">&nbsp; [Projeto - Ifood Data Analysis](https://github.com/PedroIavarone/ifood-data-analysis) — Predicting which customers will accept a marketing campaign using statistical hypothesis testing and machine learning — achieving 80.9% precision with a Random Forest model.
 
   
-- <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/startup.png?raw=true" width="22" height="22" valign="middle">&nbsp; [Projeto 2](linkdoprojeto2) — breve descrição do impacto
+- <img src="https://github.com/PedroIavarone/pedroiavarone/blob/main/files/startup.png?raw=true" width="22" height="22" valign="middle">&nbsp; [Projeto - Agente de Carteira de Investimentos
+](https://github.com/PedroIavarone/Agente-Analisador-de-Carteira-de-Investimentos) — Smart analysis of your portfolio using Python and AI, natural language reports, quantitative metrics, and rebalancing suggestions.
