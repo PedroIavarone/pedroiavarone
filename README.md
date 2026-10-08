@@ -31,8 +31,8 @@
 **Web & Ferramentas:**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" valign="middle">&nbsp; **HTML, CSS & JavaScript** — Desenvolvimento web complementar
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" valign="middle">&nbsp; **Git & GitHub** — Versionamento de código e repositórios
-- <img src="https://cdn.simpleicons.org/vercel/000000" width="22" height="22" valign="middle" style="background-color: white; padding: 2px; border-radius: 3px;">&nbsp; **Vercel** — Deploy de aplicações web
-- <img src="https://cdn.simpleicons.org/render/000000" width="22" height="22" valign="middle" style="background-color: white; padding: 2px; border-radius: 3px;">&nbsp; **Render** — Deploy de aplicações e serviços em nuvem
+- <img src="https://cdn.simpleicons.org/vercel/white" width="22" height="22" valign="middle" style="background-color: black; padding: 2px; border-radius: 3px;">&nbsp; **Vercel** — Deploy de aplicações web
+- <img src="https://cdn.simpleicons.org/render/white" width="22" height="22" valign="middle" style="background-color: black; padding: 2px; border-radius: 3px;">&nbsp; **Render** — Deploy de aplicações e serviços em nuvem
 - <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="22" height="22" valign="middle">&nbsp; **n8n** — Automação de fluxos de trabalho e integração de sistemas e APIs
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="22" height="22" valign="middle">&nbsp; **Telegram Bots** — Desenvolvimento de interfaces conversacionais e assistentes automatizados
 
