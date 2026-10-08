@@ -24,7 +24,7 @@
 
 **Infraestrutura & Bancos de Dados:**
 - <img src="https://raw.githubusercontent.com/PedroIavarone/pedroiavarone/c64b7ce477379071bccb7f6f3ae2e73f86cb6ac7/files/AWS.svg" width="22" height="22" valign="middle">&nbsp; **AWS** — Infraestrutura básica em nuvem
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" height="22" valign="middle">&nbsp; **PostgreSQL & MySQL** — Consultas e modelagem de dados relacional
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" height="22" valign="middle">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" height="22" valign="middle">&nbsp; **PostgreSQL & MySQL** — Consultas e modelagem de dados relacional
 - <img src="https://raw.githubusercontent.com/PedroIavarone/pedroiavarone/c64b7ce477379071bccb7f6f3ae2e73f86cb6ac7/files/mongodb-original.svg" width="22" height="22" valign="middle">&nbsp; **MongoDB** — Manipulação de bancos NoSQL
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="22" height="22" valign="middle">&nbsp; **Supabase** — Backend as a Service (BaaS) e gerenciamento de banco de dados
 
@@ -32,6 +32,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22" valign="middle">&nbsp; **HTML, CSS & JavaScript** — Desenvolvimento web complementar
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22" valign="middle">&nbsp; **Git & GitHub** — Versionamento de código e repositórios
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="22" height="22" valign="middle">&nbsp; **Vercel** — Deploy de aplicações web
+- <img src="https://cdn.simpleicons.org/render/000000" width="22" height="22" valign="middle">&nbsp; **Render** — Deploy de aplicações e serviços em nuvem
 - <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="22" height="22" valign="middle">&nbsp; **n8n** — Automação de fluxos de trabalho e integração de sistemas e APIs
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="22" height="22" valign="middle">&nbsp; **Telegram Bots** — Desenvolvimento de interfaces conversacionais e assistentes automatizados
 
